@@ -1,2 +1,7 @@
-### Hi there 👋
-<img src="https://t.bkit.co/w_64153a6104fea.gif" />
+# Hi there 👋
+
+Here are my favourite projects:
+
+* [Minishell](https://github.com/duhanayan/minishell)
+* [Philosophers](https://github.com/duhanayan/philosophers)
+* [Push Swap](https://github.com/duhanayan/push_swap)
